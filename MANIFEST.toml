@@ -24,3 +24,4 @@ This plugin reads the release metadata provided to Picard and exposes the inform
 """
 categories = ["metadata","scripting"]
 homepage = "https://picard-plugins-user-guides.readthedocs.io/en/latest/label_variables/user_guide.html"
+report_bugs_to = "https://github.com/rdswift/picard-plugin-label-variables/issues"

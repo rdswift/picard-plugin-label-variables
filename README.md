@@ -25,3 +25,7 @@ This plugin reads the release metadata provided to Picard and exposes the inform
 ***NOTE:*** Variables will not be created if the data is missing.
 
 ---
+
+## Contributing
+
+Please see the [Contribution Guidelines for MusicBrainz Picard Plugins](https://github.com/metabrainz/picard-plugins-registry/blob/main/PLUGIN_CONTRIBUTING.md) on how to help with development of this plugin.
